@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 🌱 Estudando Python
+- 🌱 Estudando Java
 
  <div>
   <a href="https://github.com/davy-mota">
